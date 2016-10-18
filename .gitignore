@@ -91,5 +91,5 @@ ENV/
 .ropeproject
 .gitignore
 .idea/
-xml-in
-html-out
+xml-in/*
+html-out/*
